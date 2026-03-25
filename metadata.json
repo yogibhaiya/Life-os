@@ -1,0 +1,5 @@
+{
+  "name": "Life OS Assistant",
+  "description": "A privacy-first, proactive memory assistant that helps users remember tasks, manage life aspects, and gives smart suggestions.",
+  "requestFramePermissions": ["microphone"]
+}
